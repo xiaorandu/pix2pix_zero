@@ -1,7 +1,7 @@
 ## Project Overview
 Team members: Xiaoran Du, Simon Liu (Department of Computer Science, University of Illinois at Urbana-Champaign)
 ### Motivation
-This project is focusing on implementing the [pix2pix-zero paper](https://arxiv.org/pdf/2302.03027)[1] due to its novel approach to
+[This project](https://github.com/xiaorandu/pix2pix_zero/blob/main/cs445.ipynb) is focusing on implementing the [pix2pix-zero paper](https://arxiv.org/pdf/2302.03027)[1] due to its novel approach to
 zero-shot image-to-image translation, leveraging pre-trained text-to-image diffusion models
 without the need for task-specific training or manual text prompting. Our interest lies in
 understanding and assessing the effectiveness of its unique mechanism for automatic editing
